@@ -1,4 +1,5 @@
 import os
+#Progama para calcular o IMC de uma Pessoa
 altura = float(input('Digite a sua altura'))
 peso = float(input('Digite o seu peso'))
 
