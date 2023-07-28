@@ -1,4 +1,5 @@
 import os
+#calculadora de maioridade
 print('-'*20)
 idade = int(input('Digite a sua idade: '))
 print('-'*20)
